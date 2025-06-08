@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goono\\Cplus\\prac5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D29529-2186-45A1-AFF4-59CFD3FD9BD7}|6\\6.vcxproj|C:\\Users\\goono\\Cplus\\prac5\\6\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D29529-2186-45A1-AFF4-59CFD3FD9BD7}|6\\6.vcxproj|solutionrelative:6\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5946E6D3-6923-4666-820F-E4779327C81C}|5\\5.vcxproj|C:\\Users\\goono\\Cplus\\prac5\\5\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5946E6D3-6923-4666-820F-E4779327C81C}|5\\5.vcxproj|solutionrelative:5\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac5\\5\\5.cpp",
+              "RelativeDocumentMoniker": "5\\5.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\prac5\\5\\5.cpp",
+              "RelativeToolTip": "5\\5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T06:59:29.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac5\\6\\6.cpp",
+              "RelativeDocumentMoniker": "6\\6.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\prac5\\6\\6.cpp",
+              "RelativeToolTip": "6\\6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T07:40:17.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
