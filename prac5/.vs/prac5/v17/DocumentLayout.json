@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\goono\\Cplus\\prac5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1487741-5EFC-4BB7-BB7F-A98A0EBA31A5}|7\\7.vcxproj|C:\\Users\\goono\\Cplus\\prac5\\7\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E1487741-5EFC-4BB7-BB7F-A98A0EBA31A5}|7\\7.vcxproj|solutionrelative:7\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FAAFF74-B444-4B2E-9EC8-33D07D2D5072}|12\\12.vcxproj|C:\\Users\\goono\\Cplus\\prac5\\12\\12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FAAFF74-B444-4B2E-9EC8-33D07D2D5072}|12\\12.vcxproj|solutionrelative:12\\12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "7.cpp",
-              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac5\\7\\7.cpp",
-              "RelativeDocumentMoniker": "7\\7.cpp",
-              "ToolTip": "C:\\Users\\goono\\Cplus\\prac5\\7\\7.cpp",
-              "RelativeToolTip": "7\\7.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAANAAAA",
+              "Title": "12.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac5\\12\\12.cpp",
+              "RelativeDocumentMoniker": "12\\12.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\prac5\\12\\12.cpp",
+              "RelativeToolTip": "12\\12.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-09T00:27:53.778Z",
+              "WhenOpened": "2025-06-09T07:18:33.794Z",
               "EditorCaption": ""
             }
           ]
