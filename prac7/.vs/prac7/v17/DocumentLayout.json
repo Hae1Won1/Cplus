@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\goono\\Cplus\\prac7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56A68E3A-C781-4D80-86E4-5D4DF89E35C1}|3\\3.vcxproj|C:\\Users\\goono\\Cplus\\prac7\\3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{56A68E3A-C781-4D80-86E4-5D4DF89E35C1}|3\\3.vcxproj|solutionrelative:3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A960E4B-6C17-4345-B3F2-491C7FB3D8DD}|1\\1.vcxproj|C:\\Users\\goono\\Cplus\\prac7\\1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9A960E4B-6C17-4345-B3F2-491C7FB3D8DD}|1\\1.vcxproj|solutionrelative:1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{258A9B44-6F65-40CF-97AF-61AE6A5D1F9D}|2\\2.vcxproj|C:\\Users\\goono\\Cplus\\prac7\\2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{258A9B44-6F65-40CF-97AF-61AE6A5D1F9D}|2\\2.vcxproj|solutionrelative:2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{41F1FBB2-E185-49C3-B3E3-CCE5BDE7AF59}|5\\5.vcxproj|C:\\Users\\goono\\Cplus\\prac7\\5\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41F1FBB2-E185-49C3-B3E3-CCE5BDE7AF59}|5\\5.vcxproj|solutionrelative:5\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "2.cpp",
-              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac7\\2\\2.cpp",
-              "RelativeDocumentMoniker": "2\\2.cpp",
-              "ToolTip": "C:\\Users\\goono\\Cplus\\prac7\\2\\2.cpp",
-              "RelativeToolTip": "2\\2.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "DocumentIndex": 0,
+              "Title": "5.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac7\\5\\5.cpp",
+              "RelativeDocumentMoniker": "5\\5.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\prac7\\5\\5.cpp",
+              "RelativeToolTip": "5\\5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-23T08:02:32.098Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-06-24T07:00:00.786Z",
               "EditorCaption": ""
             },
             {
@@ -45,32 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "3.cpp",
-              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac7\\3\\3.cpp",
-              "RelativeDocumentMoniker": "3\\3.cpp",
-              "ToolTip": "C:\\Users\\goono\\Cplus\\prac7\\3\\3.cpp",
-              "RelativeToolTip": "3\\3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T06:41:05.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "1.cpp",
-              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac7\\1\\1.cpp",
-              "RelativeDocumentMoniker": "1\\1.cpp",
-              "ToolTip": "C:\\Users\\goono\\Cplus\\prac7\\1\\1.cpp",
-              "RelativeToolTip": "1\\1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-23T07:49:44.788Z",
-              "EditorCaption": ""
             }
           ]
         }
