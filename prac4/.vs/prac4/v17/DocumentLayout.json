@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\goono\\Cplus\\prac4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F236F308-6178-44F5-B3C1-A124E0EF69F4}|prac4\\prac4.vcxproj|C:\\Users\\goono\\Cplus\\prac4\\prac4\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F236F308-6178-44F5-B3C1-A124E0EF69F4}|prac4\\prac4.vcxproj|solutionrelative:prac4\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A86D7B8-FBDF-4B46-A254-E09D80E824B0}|13\\13.vcxproj|C:\\Users\\goono\\Cplus\\prac4\\13\\Histogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2A86D7B8-FBDF-4B46-A254-E09D80E824B0}|13\\13.vcxproj|solutionrelative:13\\Histogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac4\\prac4\\1.cpp",
+              "RelativeDocumentMoniker": "prac4\\1.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\prac4\\prac4\\1.cpp",
+              "RelativeToolTip": "prac4\\1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T07:23:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Histogram.h",
               "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac4\\13\\Histogram.h",
               "RelativeDocumentMoniker": "13\\Histogram.h",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "13.cpp",
               "DocumentMoniker": "C:\\Users\\goono\\Cplus\\prac4\\13\\13.cpp",
               "RelativeDocumentMoniker": "13\\13.cpp",
