@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EA922C-E810-44D6-A0FF-2E49AF35BBC5}|Project16\\Project16.vcxproj|C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project16\\16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1EA922C-E810-44D6-A0FF-2E49AF35BBC5}|Project16\\Project16.vcxproj|solutionrelative:Project16\\16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C073CAE-756A-407B-93F5-CED53C25215B}|Project11\\Project11.vcxproj|C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project11\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C073CAE-756A-407B-93F5-CED53C25215B}|Project11\\Project11.vcxproj|solutionrelative:Project11\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381DF898-2FC3-4AC9-AE2B-A9AF6C5DB2DD}|Project10\\Project10.vcxproj|C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project10\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{381DF898-2FC3-4AC9-AE2B-A9AF6C5DB2DD}|Project10\\Project10.vcxproj|solutionrelative:Project10\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AECD53D-02A9-4113-B4F2-0134FD3B7242}|Project7\\Project7.vcxproj|C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project7\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AECD53D-02A9-4113-B4F2-0134FD3B7242}|Project7\\Project7.vcxproj|solutionrelative:Project7\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4111B734-F626-4079-B812-B16908FD8C51}|Project6\\Project6.vcxproj|C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project6\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4111B734-F626-4079-B812-B16908FD8C51}|Project6\\Project6.vcxproj|solutionrelative:Project6\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD200FF5-06BC-4F79-8DCD-6E3046C0CEC8}|Project2\\Project2.vcxproj|C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD200FF5-06BC-4F79-8DCD-6E3046C0CEC8}|Project2\\Project2.vcxproj|solutionrelative:Project2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C375AF4-B3C9-4EB3-9310-5AA9C683A624}|Project1\\Project1.vcxproj|C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C375AF4-B3C9-4EB3-9310-5AA9C683A624}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "16.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project16\\16.cpp",
+              "RelativeDocumentMoniker": "Project16\\16.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project16\\16.cpp",
+              "RelativeToolTip": "Project16\\16.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T04:18:15.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "11.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project11\\11.cpp",
+              "RelativeDocumentMoniker": "Project11\\11.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project11\\11.cpp",
+              "RelativeToolTip": "Project11\\11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T04:06:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project10\\10.cpp",
+              "RelativeDocumentMoniker": "Project10\\10.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project10\\10.cpp",
+              "RelativeToolTip": "Project10\\10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T03:52:39.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "7.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project7\\7.cpp",
+              "RelativeDocumentMoniker": "Project7\\7.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project7\\7.cpp",
+              "RelativeToolTip": "Project7\\7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T03:49:53.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project6\\6.cpp",
+              "RelativeDocumentMoniker": "Project6\\6.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project6\\6.cpp",
+              "RelativeToolTip": "Project6\\6.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T03:28:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project2\\2.cpp",
+              "RelativeDocumentMoniker": "Project2\\2.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project2\\2.cpp",
+              "RelativeToolTip": "Project2\\2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T05:45:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project1\\1.cpp",
+              "RelativeDocumentMoniker": "Project1\\1.cpp",
+              "ToolTip": "C:\\Users\\goono\\Cplus\\2\uD68C\uB3C5\\Chapter2\\prac2\\Project1\\1.cpp",
+              "RelativeToolTip": "Project1\\1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T05:41:43.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
